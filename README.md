@@ -16,8 +16,7 @@
 <h3>Me</h3>
 
 - 📌 I build web applications to suit the needs and challenges faced by many others.
-- 🔭 I’m currently working on an idea I had about an E-commerce Website and my HNG internship as a Backend Developer.
 - 🌐 I’m currently learning React for better, faster and a more seamless frontend experience to app users.
-- 🌱 I'm also learning PostgreSQL to help communicate better with my database (Currently using Mongoose).
+- 🌱 I'm also learning GraphQL
 - :shipit: I’m interested in backend Development and cybersecurity.
 - 📫 You can reach me at Instagram: _thebickersteth Gmail: bickerstethdemilade@gmail.com
