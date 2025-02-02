@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Bickersteth Oluwademilade 
-`(Backend Engineer || Cybersecurity Engineer)`<hr>
+`(Software Engineer || Cybersecurity Engineer)`<hr>
 <h2>🧰 Languages and Tools</h2>
 <img align="left" alt="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
 <img align="left" alt="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
