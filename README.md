@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Bickersteth Oluwademilade 
-`(Software Engineer || Cybersecurity Engineer)`<hr>
+`(Software Engineer | Backend | DevOps & Cloud | DevSecOps)`<hr>
 <h2>🧰 Languages and Tools</h2>
 <img align="left" alt="Javascript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" alt="Javascript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
