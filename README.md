@@ -42,10 +42,6 @@ I sometimes share my knowledge and experiences in DevOps, cloud security, and ba
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oluwademiladeogo&layout=compact&theme=radical)  
 
 ---
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
 
 ### 📫 Connect With Me  
 💼 **LinkedIn:** [Demilade Bickersteth](https://linkedin.com/in/bickersteth)  
@@ -54,10 +50,4 @@ I sometimes share my knowledge and experiences in DevOps, cloud security, and ba
 
 🚀 Always open to collaboration and learning new things!  
 
----
-[![](https://visitcount.itsvg.in/api?id=Oluwademiladeogo&icon=2&color=1)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
